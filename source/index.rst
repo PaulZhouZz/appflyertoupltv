@@ -12,3 +12,6 @@ a. Push API version 选择 1.0；
 b. 请求方式选择 POST，并设置 Endpoint 为：http://34.249.72.4/upltv/；
 
 c. Event messages 确保勾选 Install 部分即可。
+
+.. figure:: ./1.png
+   :alt: picture 1
